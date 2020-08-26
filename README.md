@@ -31,4 +31,4 @@ Voici quelques questions supplémentaires, que votre manager vous a posées :
 - La taille du panier moyen (en nombre d’articles) ;
 - Les catégories de produits achetés.
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<font color='red'>test blue color font</font>
