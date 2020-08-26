@@ -31,4 +31,4 @@ Voici quelques questions supplémentaires, que votre manager vous a posées :
 - La taille du panier moyen (en nombre d’articles) ;
 - Les catégories de produits achetés.
 
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+<span style="color:blue">some *This is Blue italic.* text</span>
