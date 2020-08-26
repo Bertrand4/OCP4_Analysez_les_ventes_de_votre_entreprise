@@ -11,8 +11,8 @@ Vous avez accès à ces données, extraites directement de la base de l’entrep
 - la liste des clients ;
 - la liste des produits.
 
-Vos missions
-Mission n° 1
+## Vos missions
+<font color="darkred">Mission n° 1
 Avant de pouvoir entrer dans le vif du sujet, il vous faudra faire un peu de nettoyage ! Par exemple, vous devrez faire des choix quant au traitement des valeurs manquantes et des valeurs aberrantes.
 
 Mission n° 2
