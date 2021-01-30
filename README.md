@@ -1,4 +1,4 @@
-# SCRIPT BALISÉ ET EN COULEURS <a href="https://bertrand4.github.io/OCP4_Analysez_les_ventes_de_votre_entreprise/"> EN CIQUANT ICI</a>!
+# SCRIPT BALISÉ ET EN COULEURS <a href="https://bertrand4.github.io/OCP4_Analysez_les_ventes_de_votre_entreprise/" target="__blank"> EN CIQUANT ICI</a>!
 # OCP4_Analysez_les_ventes_de_votre_entreprise
 Projet réalisé dans le cadre de ma formation Data Analyst - Openclassrooms sur l'analyse des ventes d'une entreprise fictive vendant des livres sur son site internet.
 
