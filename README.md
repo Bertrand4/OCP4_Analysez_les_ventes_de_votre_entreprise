@@ -33,6 +33,6 @@ Voici quelques questions supplémentaires, que votre manager vous a posées :
 - Le montant total des achats ;
 - La fréquence d’achat (ie. nombre d'achats par mois par exemple) ;
 - La taille du panier moyen (en nombre d’articles) ;
-- Les catégories de produits achetés.
+- Les catégories de produits achetés. 
 
 <font color='red'>test blue color font</font>
